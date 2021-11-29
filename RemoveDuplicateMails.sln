@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateMails", "RemoveDuplicateMails\RemoveDuplicateMails.csproj", "{BF25FA6F-CDE4-4F6E-B0DC-07347CC8FA49}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RemoveDuplicateMailsSetup", "RemoveDuplicateMailsSetup\RemoveDuplicateMailsSetup.vdproj", "{5BFF8D6F-CDB8-4CF0-B546-FB694D1029EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF25FA6F-CDE4-4F6E-B0DC-07347CC8FA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF25FA6F-CDE4-4F6E-B0DC-07347CC8FA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF25FA6F-CDE4-4F6E-B0DC-07347CC8FA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF25FA6F-CDE4-4F6E-B0DC-07347CC8FA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFF8D6F-CDB8-4CF0-B546-FB694D1029EE}.Debug|Any CPU.ActiveCfg = Debug
+		{5BFF8D6F-CDB8-4CF0-B546-FB694D1029EE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC51CC03-66AB-40AE-9FF3-D39F1AC29ABC}
+	EndGlobalSection
+EndGlobal
